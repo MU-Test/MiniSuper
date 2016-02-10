@@ -1,0 +1,2 @@
+# MiniSuper
+Sistema de minisuper
